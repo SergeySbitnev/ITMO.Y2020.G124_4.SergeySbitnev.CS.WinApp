@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WinApp.LabWork3.Task1.UserControlTimerDLL", "ITMO.CS.WinApp.LabWork3.Task1.UserControlTimerDLL\ITMO.CS.WinApp.LabWork3.Task1.UserControlTimerDLL.csproj", "{EAF5EFFA-2DE0-41D9-9526-D1979203C1A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WinApp.LabWork3.Task1.WinTimer1", "ITMO.CS.WinApp.LabWork3.Task1.WinTimer1\ITMO.CS.WinApp.LabWork3.Task1.WinTimer1.csproj", "{80120E1E-6F1B-45FE-8790-2BBF4E725E7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WinApp.LabWork3.Task2.WinTimer2", "ITMO.CS.WinApp.LabWork3.Task2.WinTimer2\ITMO.CS.WinApp.LabWork3.Task2.WinTimer2.csproj", "{7C513BDA-58C8-406B-8FE8-9A96894503F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WinApp.LabWork3.Task3.WinButNum", "ITMO.CS.WinApp.LabWork3.Task3.WinButNum\ITMO.CS.WinApp.LabWork3.Task3.WinButNum.csproj", "{5C72469C-5951-4B27-946F-2E926C437B3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAF5EFFA-2DE0-41D9-9526-D1979203C1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF5EFFA-2DE0-41D9-9526-D1979203C1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF5EFFA-2DE0-41D9-9526-D1979203C1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF5EFFA-2DE0-41D9-9526-D1979203C1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80120E1E-6F1B-45FE-8790-2BBF4E725E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80120E1E-6F1B-45FE-8790-2BBF4E725E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80120E1E-6F1B-45FE-8790-2BBF4E725E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80120E1E-6F1B-45FE-8790-2BBF4E725E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C513BDA-58C8-406B-8FE8-9A96894503F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C513BDA-58C8-406B-8FE8-9A96894503F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C513BDA-58C8-406B-8FE8-9A96894503F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C513BDA-58C8-406B-8FE8-9A96894503F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C72469C-5951-4B27-946F-2E926C437B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C72469C-5951-4B27-946F-2E926C437B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C72469C-5951-4B27-946F-2E926C437B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C72469C-5951-4B27-946F-2E926C437B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B50F9252-7765-4679-8DEB-9524CD0518FB}
+	EndGlobalSection
+EndGlobal

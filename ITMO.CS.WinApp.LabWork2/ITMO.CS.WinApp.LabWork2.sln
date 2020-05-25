@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WinApp.LabWork2.Task1.WinQuestion", "ITMO.CS.WinApp.LabWork2.Task1.WinQuestion\ITMO.CS.WinApp.LabWork2.Task1.WinQuestion.csproj", "{8AA2CBF0-34BA-41BE-BCDA-AECDB130D157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WinApp.LabWork2.Task2.TestList", "ITMO.CS.WinApp.LabWork2.Task2.TestList\ITMO.CS.WinApp.LabWork2.Task2.TestList.csproj", "{3FF9B195-99E0-402F-8081-6AC61F75A4D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WinApp.LabWork2.Task3.ToolStrip", "ITMO.CS.WinApp.LabWork2.Task3.ToolStrip\ITMO.CS.WinApp.LabWork2.Task3.ToolStrip.csproj", "{A366FB0B-7B65-467B-9D55-841AD8A58027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WinApp.LabWork2.Task4.StatusStrip", "ITMO.CS.WinApp.LabWork2.Task4.StatusStrip\ITMO.CS.WinApp.LabWork2.Task4.StatusStrip.csproj", "{9291E09A-F9CE-4C4E-A7D0-506D5D87A185}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WinApp.LabWork2.Task5.WinContainer", "ITMO.CS.WinApp.LabWork2.Task5.WinContainer\ITMO.CS.WinApp.LabWork2.Task5.WinContainer.csproj", "{A08ADFC0-57AE-4B20-8727-D9A5EBBF4792}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WinApp.LabWork2.Task6.BiblWorm", "ITMO.CS.WinApp.LabWork2.Task6.BiblWorm\ITMO.CS.WinApp.LabWork2.Task6.BiblWorm.csproj", "{CF38544F-4745-459A-B398-C935D5EA4FFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WinApp.LabWork2.Task7.RegistrationForm", "ITMO.CS.WinApp.LabWork2.Task7.RegistrationForm\ITMO.CS.WinApp.LabWork2.Task7.RegistrationForm.csproj", "{E62C92C0-A636-4CEA-8C00-E086AD2E6692}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WinApp.LabWork2.Task8.KeyPressValidatingErrorProvide", "ITMO.CS.WinApp.LabWork2.Task8.KeyPressValidatingErrorProvide\ITMO.CS.WinApp.LabWork2.Task8.KeyPressValidatingErrorProvide.csproj", "{CD2304D0-75C4-410A-B2BA-2D160075416B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AA2CBF0-34BA-41BE-BCDA-AECDB130D157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA2CBF0-34BA-41BE-BCDA-AECDB130D157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA2CBF0-34BA-41BE-BCDA-AECDB130D157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA2CBF0-34BA-41BE-BCDA-AECDB130D157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF9B195-99E0-402F-8081-6AC61F75A4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF9B195-99E0-402F-8081-6AC61F75A4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF9B195-99E0-402F-8081-6AC61F75A4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF9B195-99E0-402F-8081-6AC61F75A4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A366FB0B-7B65-467B-9D55-841AD8A58027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A366FB0B-7B65-467B-9D55-841AD8A58027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A366FB0B-7B65-467B-9D55-841AD8A58027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A366FB0B-7B65-467B-9D55-841AD8A58027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9291E09A-F9CE-4C4E-A7D0-506D5D87A185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9291E09A-F9CE-4C4E-A7D0-506D5D87A185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9291E09A-F9CE-4C4E-A7D0-506D5D87A185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9291E09A-F9CE-4C4E-A7D0-506D5D87A185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A08ADFC0-57AE-4B20-8727-D9A5EBBF4792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08ADFC0-57AE-4B20-8727-D9A5EBBF4792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08ADFC0-57AE-4B20-8727-D9A5EBBF4792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08ADFC0-57AE-4B20-8727-D9A5EBBF4792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF38544F-4745-459A-B398-C935D5EA4FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF38544F-4745-459A-B398-C935D5EA4FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF38544F-4745-459A-B398-C935D5EA4FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF38544F-4745-459A-B398-C935D5EA4FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E62C92C0-A636-4CEA-8C00-E086AD2E6692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E62C92C0-A636-4CEA-8C00-E086AD2E6692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E62C92C0-A636-4CEA-8C00-E086AD2E6692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E62C92C0-A636-4CEA-8C00-E086AD2E6692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD2304D0-75C4-410A-B2BA-2D160075416B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2304D0-75C4-410A-B2BA-2D160075416B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2304D0-75C4-410A-B2BA-2D160075416B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2304D0-75C4-410A-B2BA-2D160075416B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {200B4AFE-038C-4AEE-9B7D-F32C872780A9}
+	EndGlobalSection
+EndGlobal

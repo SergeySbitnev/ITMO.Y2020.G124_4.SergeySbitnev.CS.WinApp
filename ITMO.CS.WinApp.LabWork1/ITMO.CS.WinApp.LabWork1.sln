@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WinApp.LabWork1.Task1.RectangularShape", "ITMO.CS.WinApp.LabWork1.Task1.RectangularShape\ITMO.CS.WinApp.LabWork1.Task1.RectangularShape.csproj", "{B9D7ACE2-B6AE-45DD-BE89-5EDE2350BDE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WinApp.LabWork1.Task2.NonRectangularShare", "ITMO.CS.WinApp.LabWork1.Task2.NonRectangularShare\ITMO.CS.WinApp.LabWork1.Task2.NonRectangularShare.csproj", "{DEECE083-ED82-47F4-8B58-51D70498FCA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WinApp.LabWork1.Task3.HeritableForm", "ITMO.CS.WinApp.LabWork1.Task3.HeritableForm\ITMO.CS.WinApp.LabWork1.Task3.HeritableForm.csproj", "{6280DABB-33DE-45E7-92CE-03AB282EBC51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WinApp.LabWork1.Task4.MDIApp", "ITMO.CS.WinApp.LabWork1.Task4.MDIApp\ITMO.CS.WinApp.LabWork1.Task4.MDIApp.csproj", "{9B048F71-21A8-447C-B520-39B019503422}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WinApp.LabWork1.Task5.GREENPEACE", "ITMO.CS.WinApp.LabWork1.Task5.GREENPEACE\ITMO.CS.WinApp.LabWork1.Task5.GREENPEACE.csproj", "{AC279456-7B26-45EA-ADD5-3AF47E45FB04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WinApp.LabWork1.Task5.RoundForm", "ITMO.CS.WinApp.LabWork1.Task5.RoundForm\ITMO.CS.WinApp.LabWork1.Task5.RoundForm.csproj", "{2EE42312-6547-41BE-B3F7-7F345BD654A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9D7ACE2-B6AE-45DD-BE89-5EDE2350BDE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D7ACE2-B6AE-45DD-BE89-5EDE2350BDE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D7ACE2-B6AE-45DD-BE89-5EDE2350BDE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D7ACE2-B6AE-45DD-BE89-5EDE2350BDE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEECE083-ED82-47F4-8B58-51D70498FCA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEECE083-ED82-47F4-8B58-51D70498FCA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEECE083-ED82-47F4-8B58-51D70498FCA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEECE083-ED82-47F4-8B58-51D70498FCA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6280DABB-33DE-45E7-92CE-03AB282EBC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6280DABB-33DE-45E7-92CE-03AB282EBC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6280DABB-33DE-45E7-92CE-03AB282EBC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6280DABB-33DE-45E7-92CE-03AB282EBC51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B048F71-21A8-447C-B520-39B019503422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B048F71-21A8-447C-B520-39B019503422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B048F71-21A8-447C-B520-39B019503422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B048F71-21A8-447C-B520-39B019503422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC279456-7B26-45EA-ADD5-3AF47E45FB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC279456-7B26-45EA-ADD5-3AF47E45FB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC279456-7B26-45EA-ADD5-3AF47E45FB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC279456-7B26-45EA-ADD5-3AF47E45FB04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE42312-6547-41BE-B3F7-7F345BD654A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE42312-6547-41BE-B3F7-7F345BD654A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE42312-6547-41BE-B3F7-7F345BD654A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE42312-6547-41BE-B3F7-7F345BD654A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE8F305E-5B63-4EE8-959F-ACFD186977BF}
+	EndGlobalSection
+EndGlobal

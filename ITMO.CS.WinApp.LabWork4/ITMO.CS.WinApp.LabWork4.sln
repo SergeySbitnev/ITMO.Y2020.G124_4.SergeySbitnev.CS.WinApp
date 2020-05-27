@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WinApp.LabWork4.Task1.TestStandartDialog", "ITMO.CS.WinApp.LabWork4.Task1.TestStandartDialog\ITMO.CS.WinApp.LabWork4.Task1.TestStandartDialog.csproj", "{D2B343DE-35A2-4417-9CCA-609CE8392283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WinApp.LabWork4.Task2.EditPerson", "ITMO.CS.WinApp.LabWork4.Task2.EditPerson\ITMO.CS.WinApp.LabWork4.Task2.EditPerson.csproj", "{1902ADD9-234D-4313-9C13-55500DF731C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WinApp.LabWork4.Task3.ClassPerson", "ITMO.CS.WinApp.LabWork4.Task3.ClassPerson\ITMO.CS.WinApp.LabWork4.Task3.ClassPerson.csproj", "{F60AF6F9-6C16-4DED-B4D0-A454F1760C8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.WinApp.LabWork4.Task4.ModalessWindow", "ITMO.CS.WinApp.LabWork4.Task4.ModalessWindow\ITMO.CS.WinApp.LabWork4.Task4.ModalessWindow.csproj", "{80B1EF4A-B099-4026-88A6-EF0A14F593E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2B343DE-35A2-4417-9CCA-609CE8392283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B343DE-35A2-4417-9CCA-609CE8392283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B343DE-35A2-4417-9CCA-609CE8392283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B343DE-35A2-4417-9CCA-609CE8392283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1902ADD9-234D-4313-9C13-55500DF731C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1902ADD9-234D-4313-9C13-55500DF731C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1902ADD9-234D-4313-9C13-55500DF731C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1902ADD9-234D-4313-9C13-55500DF731C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F60AF6F9-6C16-4DED-B4D0-A454F1760C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60AF6F9-6C16-4DED-B4D0-A454F1760C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60AF6F9-6C16-4DED-B4D0-A454F1760C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60AF6F9-6C16-4DED-B4D0-A454F1760C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80B1EF4A-B099-4026-88A6-EF0A14F593E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80B1EF4A-B099-4026-88A6-EF0A14F593E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80B1EF4A-B099-4026-88A6-EF0A14F593E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80B1EF4A-B099-4026-88A6-EF0A14F593E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23B061DC-DA3A-4F9A-BDD0-5F12B86A6F90}
+	EndGlobalSection
+EndGlobal
